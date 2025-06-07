@@ -1,9 +1,6 @@
 # TaskDrivenAutomation
  A C# console application for automating task execution with generics and interfaces, focusing on email and report processing.
 
-# GenericTaskProcessor
-
-A simple and extensible C# console application that demonstrates how to use generics and interfaces to process different types of tasks (e.g. email sending, report generation) in a reusable and type-safe way.
 
 ## 🧩 Project Structure
 
